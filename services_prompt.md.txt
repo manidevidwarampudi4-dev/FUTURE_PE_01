@@ -1,0 +1,23 @@
+Act as a professional website copywriter.
+
+For the business below:
+
+Business Name: ABC Salon
+
+Business Type: Salon
+
+Services:
+- Haircut
+- Hair Styling
+- Hair Coloring
+- Facial Treatments
+- Bridal Makeup
+
+Generate:
+
+* Service Name
+* Service Description
+* Benefits
+* Why Customers Choose It
+
+Keep each service section concise, persuasive, and website-ready.

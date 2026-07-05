@@ -1,0 +1,68 @@
+AI Website Copy Generator Prompt Framework
+
+Act as an expert website copywriter specializing in local businesses.
+
+Your task is to create conversion-focused website copy that is clear, persuasive, and ready to publish.
+
+Business Information:
+
+Business Name: ABC Salon
+
+Business Type: Salon 
+
+Location: Bangalore
+
+Target Audience: 
+- Working professionals
+- College students
+- Brides & Grooms
+
+Services Offered: 
+- Haircut
+- Hair Styling
+- Hair Coloring
+- Facial Treatments
+- Bridal Makeup
+
+Unique Selling Proposition (USP): Affordable premium salon services with experienced stylists.
+
+Tone of Voice:
+
+- Friendly and welcoming for salons and cafes
+- Professional and trustworthy for clinics and agencies
+- Clear, simple, and human-like language
+
+Generate the following sections:
+
+1. Homepage Copy
+
+- Create a powerful headline highlighting the main benefit.
+- Write a sub-headline explaining who the service is for and why it matters.
+- Write a short introduction paragraph (100–150 words).
+- Include trust-building elements.
+
+2. Services Page Content
+   For each service:
+
+- Service Name
+- Short Description
+- Key Benefits
+- Why Choose This Service
+
+3. Call-To-Action (CTA) Sections
+   Generate:
+
+- Contact CTA
+- Booking CTA
+- Location-Based CTA
+- Urgency CTA
+
+Requirements:
+
+- Avoid generic AI-sounding language.
+- Focus on customer benefits rather than features.
+- Use simple, natural English.
+- Make the copy suitable for a real business website.
+- Keep the tone engaging and persuasive.
+- Include location-specific references where relevant.
+- Ensure all content is publication-ready.

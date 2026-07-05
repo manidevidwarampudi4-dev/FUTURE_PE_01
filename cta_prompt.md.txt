@@ -1,0 +1,20 @@
+Generate 4 high-converting website CTA sections.
+
+Business Name: ABC Salon
+
+Location: Bangalore
+
+Business Type: Salon
+
+Create:
+
+1. Contact CTA
+2. Booking CTA
+3. Local Area CTA
+4. Limited-Time CTA
+
+Requirements:
+- Action-oriented language
+- Customer-focused messaging
+- Short and persuasive
+- Suitable for website placement

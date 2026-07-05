@@ -1,0 +1,27 @@
+Generate homepage website copy for the following local business.
+
+Business Name: ABC Salon
+
+Business Type: Salon
+
+Location: Bangalore
+
+USP: Affordable premium salon services with experienced stylists.
+
+
+Target Audience: 
+- Working professionals
+- College students
+- Brides & Grooms
+
+Create:
+
+1. Hero Headline
+2. Hero Subheadline
+3. Introduction Section
+4. Why Choose Us Section
+5. Customer Trust Section
+6. Final CTA
+
+Write in a professional and human-friendly tone.
+Focus on benefits, trust, and customer outcomes.
